@@ -160,6 +160,4 @@ MySQL-based functionality requires the database to be configured for the local e
 
 ## Author
 
-**Your Name**
-
-GitHub: [GitHub Profile](<github-profile-url>)
+Narayanamma Reddycharla
