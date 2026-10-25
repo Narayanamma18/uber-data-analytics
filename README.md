@@ -87,9 +87,7 @@ Developed a Streamlit dashboard that brings key metrics and visualizations toget
 - Business insights based on selected filters
 - CSV export of filtered booking records
 
-## Dashboard Preview
 
-![Ride Booking Analytics Dashboard](screenshots/dashboard.png)
 
 ## Key Metrics
 
