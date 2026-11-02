@@ -114,7 +114,7 @@ The dashboard allows users to explore selected booking records and compare metri
 
 **NCR Ride Bookings**
 
-Source: [Uber Ride Analytics Dashboard — Kaggle](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)
+
 
 The dataset contains ride-booking records used to analyze booking statuses, vehicle types, booking values, cancellations, and demand patterns.
 
